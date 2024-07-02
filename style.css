@@ -1,0 +1,24 @@
+body {
+  font-size: 1.5rem;
+  font-family: Nunito sans;
+  background-color: darkblue;
+  color: white;
+}
+
+img {
+  height: 250px;
+  width: 500px;
+  margin: 50px;
+}
+
+.pic-3 {
+  float: left;
+}
+
+.BB {
+  float: left;
+}
+
+.CV {
+  float: right;
+}
